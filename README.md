@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@kalyan-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@kalyan-the-sasster" height="30" width="40" /></a>
+<a href="https://codepen.io/kalyan-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kalyan-the-sasster" height="30" width="40" /></a>
 <a href="https://twitter.com/kalyan936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kalyan936" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kalyanasundaram v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalyanasundaram v" height="30" width="40" /></a>
 <a href="https://fb.com/kalyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kalyan" height="30" width="40" /></a>
