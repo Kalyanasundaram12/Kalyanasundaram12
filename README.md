@@ -35,7 +35,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalyanasundaram12&show_icons=true&locale=en" alt="kalyanasundaram12" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalyanasundaram12&" alt="kalyanasundaram12" /></p>
+[![Kalyanasundaram's GitHub stats](https://stats.quine.sh/Kalyanasundaram/github)](https://quine.sh)
 <!---
 Kalyanasundaram12/Kalyanasundaram12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
