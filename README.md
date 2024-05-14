@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyanasundaram12&label=Profile%20views&color=0e75b6&style=flat" alt="kalyanasundaram12" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/kalyan936" target="blank"><img src="https://img.shields.io/twitter/follow/kalyan936?logo=twitter&style=for-the-badge" alt="kalyan936" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NotKalyann" target="blank"><img src="https://img.shields.io/twitter/follow/kalyan936?logo=twitter&style=for-the-badge" alt="kalyan936" /></a> </p>
 
 - 🌱 I’m currently learning **Cloud computing**
 
