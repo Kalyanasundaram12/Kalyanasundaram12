@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kalyan-the-sasster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kalyan-the-sasster" height="30" width="40" /></a>
-<a href="https://twitter.com/kalyan936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@kalyan936" height="30" width="40" /></a>
+<a href="https://twitter.com/kalyan936" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@NotKalyann" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kalyanasundaram-v-48b21a229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalyanasundaram-v-48b21a229" height="30" width="40" /></a>
 <a href="https://fb.com/abi.nav.3348" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abi.nav.3348" height="30" width="40" /></a>
 <a href="https://instagram.com/kalyan.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kalyan.exe" height="30" width="40" /></a>
